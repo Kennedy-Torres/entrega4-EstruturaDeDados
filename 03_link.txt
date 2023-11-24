@@ -1,0 +1,2 @@
+Insertion sort : https://www.youtube.com/watch?v=NiyE7dHSppE
+Lista encadeada : https://www.youtube.com/watch?v=P9d2WGT0A5k
