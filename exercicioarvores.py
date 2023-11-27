@@ -47,7 +47,7 @@ raiz = None
 while True:
     print("\nEscolha uma opção:")
     print("1. Adicionar medicamento")
-    print("2. Exibir estrutura da árvore")
+    print("2. Exibir produtos da árvore")
     print("3. Procurar medicamento por código de barras")
     print("4. Sair")
 
