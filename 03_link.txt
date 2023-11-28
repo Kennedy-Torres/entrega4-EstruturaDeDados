@@ -2,3 +2,4 @@ Insertion sort : https://www.youtube.com/watch?v=NiyE7dHSppE
 Lista encadeada : https://www.youtube.com/watch?v=P9d2WGT0A5k
 Pilha: https://www.youtube.com/watch?v=KSxg9IiijTs
 Árvores: https://youtu.be/36NcdcYGjD4
+Busca Binária: https://youtu.be/UkO4hcF_Uao
